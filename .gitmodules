@@ -1,0 +1,3 @@
+[submodule "themes/split-landing"]
+	path = themes/split-landing
+	url = git@github.com:8ar10der/split-landing.git

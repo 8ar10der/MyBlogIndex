@@ -1,0 +1,19 @@
+baseURL = "http://amao.run/"
+languageCode = "en-us"
+title = "Yuehao Sui's Page"
+theme = "split-landing"
+
+[params]
+    showCenterTitleAndImage = true #disable the center title and logo image
+    mainTitle = "My name is Yuehao Sui"
+    mainImage = "images/logo.png"
+    leftTitle = "I am Traveler"
+    leftSubTitle = "人无法控制是否爱上"
+    leftJpg = "images/amao.jpg"
+    leftButtonText = "Look MyLife"
+    leftLink = "#"
+    rightTitle = "I am Developer"
+    rightSubTitle = "{HELLO+WORLD};"
+    rightJpg = "images/programmer.png"
+    rightButtonText = "Read More"
+    rightLink = "https://amao.run"
